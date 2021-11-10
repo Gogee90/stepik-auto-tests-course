@@ -1,2 +1,3 @@
 # stepik-auto-tests-course
-just some code from course
+Repository for "Automated testing course with python and selenium" on stepik.
+https://stepik.org/course/575/syllabus
